@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>770221548320-lme0p7vt0ggbo50e9rn2ftldi0lgrmtl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.770221548320-lme0p7vt0ggbo50e9rn2ftldi0lgrmtl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>770221548320-vjmbffh0t983gmu63bgaiht17t5cbd4c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQLKLC7pqNyIHNwT-79YwSSNj2N1d0U4w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>770221548320</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sbig.insurance.dev</string>
+	<key>PROJECT_ID</key>
+	<string>sbi-general-insurance-st-548ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sbi-general-insurance-st-548ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:770221548320:ios:5fb372fe0717f6e8a8ed45</string>
+	<key>DATABASE_URL</key>
+	<string>https://sbi-general-insurance-st-548ce.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770221548320",
+    "firebase_url": "https://sbi-general-insurance-st-548ce.firebaseio.com",
+    "project_id": "sbi-general-insurance-st-548ce",
+    "storage_bucket": "sbi-general-insurance-st-548ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770221548320:android:e94604dbad2b43c7a8ed45",
+        "android_client_info": {
+          "package_name": "com.sbig.insurance.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770221548320-vjmbffh0t983gmu63bgaiht17t5cbd4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbig.insurance.dev",
+            "certificate_hash": "d401a15ef1b81dedfd4699eb06d978006c0a2ed8"
+          }
+        },
+        {
+          "client_id": "770221548320-6ijjqcthgolp05ulgloqb7flfjkaog7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_VfowPuqZiuqLarZcxPIXf0NiP_Q23cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770221548320-6ijjqcthgolp05ulgloqb7flfjkaog7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

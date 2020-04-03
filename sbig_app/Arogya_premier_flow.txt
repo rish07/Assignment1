@@ -1,0 +1,26 @@
+Arogya Premier :
+
+Screen 1 : ProductInfoScreen
+Screen 2 : PersonalDetailsScreen
+Screen 3 : PolicyTypeScreen
+Screen 4 : ArogyaCoverMemberScreen
+
+if Individual and Family floater - screen 5 , if FamilyIndividual - Screen 6
+
+screen 5 : ArogyaPremierSumInsuredScreen
+screen 6 : ArogyaTimePeriodScreen
+screen 7 : ArogyaPremierPremiumBreakupScreen
+screen 8 : ArogyaPremierPolicyPeriodScreen
+
+if, policy type ->  individual ->  screen 8. if familt floater and family individual  screen 9 
+
+screen 9  : ArogyaIndividualMemberDetailsScreen
+screen 10 : ArogyaInsureDetailsScreen
+screen 11 : ArogyaHealthQuestion
+screen 12 : ArogyaPremierPremiumBreakupScreen  (Re-calculate premium)
+screen 13 : ArogyaPremierInsuranceBuyerDetailsScreen
+screen 14 : ArogyaPremierEIANumberScreen
+screen 15 : ArogyaPremierPolicySummeryScreen
+screen 16 : OTPScreen
+screen 17 : ArogyaPremierPaymentController
+screen 18 : ArogyaPlusThankYouWidget

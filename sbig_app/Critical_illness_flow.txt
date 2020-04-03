@@ -1,0 +1,23 @@
+Critical illness : 
+
+Screen 1  :  ProductInfoScreen 
+Screen 2  :  PersonalDetailsScreen
+Screen 3  :  PolicyCoverMemberScreen
+Screen 4  :  GrossIncomeScreen
+Screen 5  :  CriticalSumInsuredScreenNew
+Screen 6  :  CriticalTimePeriodScreen
+Screen 7  :  CriticalPremiumBreakupScreen
+Screen 8  :  CriticalIllnessPolicyPeriodScreen
+Screen 9  :  CriticalInsureMemberDetailsScreen
+Screen 10 :  CriticalInsureDetailsScreen
+Screen 11 :  OtherCriticalIllnessQuestionScreen
+
+if, Other critical illness policy is yes screen 12  else it will directly go to screen 13
+
+Screen 12 :  MultiOtherCriticalInsuranceDetailsScreen
+Screen 13 :  CriticalHealthQuestionsScreen
+Screen 14 :  CriticalIllnessInsuranceBuyerDetailsScreen
+Screen 15 :  EIANumberScreen
+Screen 16 :  CriticalPolicySummeryScreen
+Screen 17 :  CriticalPaymentController
+Screen 18 :  CriticalIllnessThankYouWidget

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">13.235.199.36</domain>
+        <domain includeSubdomains="true">15.206.152.213</domain>
+        <domain includeSubdomains="true">15.206.154.75</domain>
+        <domain includeSubdomains="true">15.206.130.114</domain>
+        <domain includeSubdomains="true">apistage.fitn.in</domain>
+    </domain-config>
+</network-security-config>
